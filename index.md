@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 你好，TENTEN!哈哈~~~
 
 You can use the [editor on GitHub](https://github.com/Jeanses/TenTen/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
